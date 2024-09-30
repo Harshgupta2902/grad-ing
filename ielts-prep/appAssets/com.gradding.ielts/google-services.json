@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "605122150369",
+    "project_id": "gradding-app",
+    "storage_bucket": "gradding-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605122150369:android:24a14717fbcad2df9edca0",
+        "android_client_info": {
+          "package_name": "com.gradding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-uGAs_9fLLAYTa2YRia7o3JHJ4-BDrqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605122150369:android:9ab3c00f14a321da9edca0",
+        "android_client_info": {
+          "package_name": "com.gradding.finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-uGAs_9fLLAYTa2YRia7o3JHJ4-BDrqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605122150369:android:d4a32afdc82d1e139edca0",
+        "android_client_info": {
+          "package_name": "com.gradding.ielts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-uGAs_9fLLAYTa2YRia7o3JHJ4-BDrqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605122150369:android:9f78b336efb3eeb19edca0",
+        "android_client_info": {
+          "package_name": "com.gradding.predictor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-uGAs_9fLLAYTa2YRia7o3JHJ4-BDrqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
